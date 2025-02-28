@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18445992&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
+
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 
 Timely delivery is crucial because it ensures customer satisfaction, meets business goals, and avoids increased costs. 
@@ -89,21 +90,21 @@ Gantt charts: Visual representation of project schedule, showing task dependenci
 My softare is for predicting employee retention.
 Core Issues:
 
-High employee turnover, leading to increased recruitment and training costs.
+- High employee turnover, leading to increased recruitment and training costs.
 
-Difficulty in identifying at-risk employees before they resign.
+- Difficulty in identifying at-risk employees before they resign.
 
-Lack of data-driven insights to inform retention strategies.
+- Lack of data-driven insights to inform retention strategies.
 
-Inability to personalize retention efforts.
+- Inability to personalize retention efforts.
 
 Significance:
 
-For HR departments and business leaders, these problems result in significant financial losses, decreased productivity, and a negative impact on company morale.
+- For HR departments and business leaders, these problems result in significant financial losses, decreased productivity, and a negative impact on company morale.
 
-Predicting and preventing employee turnover allows organizations to retain valuable talent, reduce costs, and create a more stable and productive work environment.
+- Predicting and preventing employee turnover allows organizations to retain valuable talent, reduce costs, and create a more stable and productive work environment.
 
-By understanding why employees are likely to leave, companies can take proactive steps to improve employee satisfaction and engagement.
+- By understanding why employees are likely to leave, companies can take proactive steps to improve employee satisfaction and engagement.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
@@ -123,15 +124,15 @@ actionable recommendations, it empowers HR teams to enhance employee engagement 
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
-Predictive Analytics: Analyzes employee data to identify at-risk individuals before they leave.
+- Predictive Analytics: Analyzes employee data to identify at-risk individuals before they leave.
 
-Employee Engagement Tracking: Monitors satisfaction and engagement through surveys, feedback tools, and performance metrics.
+- Employee Engagement Tracking: Monitors satisfaction and engagement through surveys, feedback tools, and performance metrics.
 
-Retention Insights: Provides actionable recommendations for managers to improve work environments and employee satisfaction.
+- Retention Insights: Provides actionable recommendations for managers to improve work environments and employee satisfaction.
 
-Real-Time Dashboards: Offers HR teams an interactive, easy-to-read dashboard to track retention trends and employee sentiment.
+- Real-Time Dashboards: Offers HR teams an interactive, easy-to-read dashboard to track retention trends and employee sentiment.
 
-Automated Alerts: Sends notifications about potential turnover risks and suggests timely interventions.
+-  Automated Alerts: Sends notifications about potential turnover risks and suggests timely interventions.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
